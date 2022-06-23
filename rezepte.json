@@ -1,0 +1,27 @@
+{
+  "rezept1" : {
+    "name" : "Spaghetti Bolognese",
+    "zutat1": "Spaghetti",
+    "zutat2": "Hackfleisch",
+    "zutat3": "Tomatenmark"
+  },
+  "rezept2" : {
+    "name" : "Schlemmerfilet",
+    "zutat1": "Schlemmerfilet",
+    "zutat2": "Reis"
+  },
+  "rezept3" : {
+    "name" : "Meneme",
+    "zutat1": "Eier",
+    "zutat2": "Sukcuk",
+    "zutat3": "Tomate",
+    "zutat4": "Spitzpaprika",
+    "zutat5": "Pepperoni"
+  },
+  "rezept4" : {
+    "name" : "Gruener Salat",
+    "zutat1": "Salat",
+    "zutat2": "Tomate",
+    "zutat3": "Dressing"
+  }
+}
