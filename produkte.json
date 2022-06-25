@@ -1,0 +1,85 @@
+{
+  "Obst": {
+    "1" : "Banane",
+    "2" : "Apfel",
+    "3" : "Traube",
+    "4" : "Pfirsich",
+    "5" : "Melone",
+    "6" : "Himbeere",
+    "7" : "Kirsche",
+    "8" : "Erdbeere",
+    "9" : "Orange",
+    "10" : "Mandarine",
+    "11" : "Aprikose",
+    "12" : "Blaubeere"
+  },
+  "Gemuese": {
+
+  },
+  "Konserven": {
+
+  },
+  "Kaffe und Brot": {
+    "1" : "Kaffee Arbeit",
+    "2" : "Kaffee Zuhause",
+    "3" : "Brot",
+    "4" : "Nutella",
+    "5" : "Honig",
+    "6" : "Marmelade",
+    "7" : "Toastbrot",
+    "8" : "Broetchen",
+    "9" : "Gebaeck"
+  },
+  "Nudeln und Co" : {
+
+  },
+  "Haushalt": {
+    "1" : "Allzweckreiniger",
+    "2" : "Weichspueler",
+    "3" : "Spueli",
+    "4" : "Toilettenreiniger",
+    "5" : "Toiletteneinhaenger",
+    "6" : "Breff",
+    "7" : "Sidolin",
+    "8" : "Muelltueten Plastik",
+    "9" : "Muelltueten Papier",
+    "10" : "Putzschwaemme",
+    "11" : "Raumerfrischer"
+  },
+  "Hygiene": {
+    "1" : "Zahnpasta",
+    "2" : "Duschgel",
+    "3" : "Rasiergel",
+    "4" : "Rasierklingen",
+    "5" : "Toilettenpapier",
+    "6" : "Kuechenrolle",
+    "7" : "Taschentuecher",
+    "8" : "Tempobox",
+    "9" : "Einlagen",
+    "10" : "Shampoo",
+    "11" : "Deo"
+  },
+  "Kuehlltheke": {
+
+  },
+  "Fleisch": {
+
+  },
+  "Tiefkuehl": {
+
+  },
+  "Suesses und Knabbern": {
+
+  },
+  "Getraenke": {
+    "1" : "Wasser",
+    "2" : "Cola",
+    "3" : "Cola klein",
+    "4" : "Saft",
+    "5" : "Bier",
+    "6" : "Limo"
+  },
+  "Sonstiges": {
+
+  }
+}
