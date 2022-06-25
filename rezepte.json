@@ -1,27 +1,35 @@
 {
-  "rezept1" : {
+  "1" : {
     "name" : "Spaghetti Bolognese",
-    "zutat1": "Spaghetti",
-    "zutat2": "Hackfleisch",
-    "zutat3": "Tomatenmark"
+    "zutaten" : {
+      "Spaghetti": "Nudeln und Co",
+      "Hackfleisch": "Fleisch",
+      "Tomatenmark": "Konserven"
+    }
   },
-  "rezept2" : {
+  "2" : {
     "name" : "Schlemmerfilet",
-    "zutat1": "Schlemmerfilet",
-    "zutat2": "Reis"
+    "zutaten": {
+      "Schlemmerfilet": "Tiefkuehl",
+      "Reis": "Nudeln und Co"
+    }
   },
-  "rezept3" : {
+  "3" : {
     "name" : "Meneme",
-    "zutat1": "Eier",
-    "zutat2": "Sukcuk",
-    "zutat3": "Tomate",
-    "zutat4": "Spitzpaprika",
-    "zutat5": "Pepperoni"
+    "zutaten": {
+      "Eier": "Kuehltheke",
+      "Sukcuk": "Kuehltheke",
+      "Tomate": "Gemuese",
+      "Spitzpaprika": "Gemuese",
+      "Pepperoni": "Konserven"
+    }
   },
-  "rezept4" : {
+  "4" : {
     "name" : "Gruener Salat",
-    "zutat1": "Salat",
-    "zutat2": "Tomate",
-    "zutat3": "Dressing"
+    "zutaten": {
+      "Salat": "Gemuese",
+      "Tomate": "Gemuese",
+      "Dressing": "Gemuese"
+    }
   }
 }
