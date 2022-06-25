@@ -34,7 +34,6 @@ public class GUI {
             case 5 -> System.exit(0);
             default -> System.out.println("Ungueltige Eingabe");
         }
-//        scanner.close();
     }
 
     public void rezeptHinzufuegen() {
@@ -42,7 +41,6 @@ public class GUI {
         System.out.println("|");
 
         List<String> rezeptListe = einkaufsliste.rezepteAnzeigen();
-        Collections.reverse(rezeptListe);
         for (int i = 0; i < rezeptListe.size(); i++) {
             System.out.println("|  " + (i + 1) + " -> " + rezeptListe.get(i));
         }
@@ -55,7 +53,6 @@ public class GUI {
         Scanner scanner = new Scanner(System.in);
         String auswahl = scanner.next();
         einkaufsliste.rezeptHinzufuegen(auswahl);
-//        scanner.close();
         startScreen();
     }
 
